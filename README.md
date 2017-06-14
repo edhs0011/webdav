@@ -13,6 +13,8 @@ docker pull morrisjobke/webdav
 > http://localhost:8888/webdav
 ### 2. Try to upload a file to the server
 ***
+Install the package
+> pip install -r requirements.txt
 #### Modify the file path in code
 ```
 # Modify the path to what you want to upload
